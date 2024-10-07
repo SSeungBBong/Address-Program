@@ -3,5 +3,5 @@
 
 # chatGPT를 이용한 코딩
 
-chatGPT 4omini를 로그인 하지 않고 사용함.
+chatGPT 4omini를 비로그인으로 사용함.
 
